@@ -1,2 +1,2 @@
 # Student-Administration-Portal
-Reactjs, json server
+Reactjs, Express, Nodejs, MongoDb
