@@ -1,0 +1,60 @@
+{
+  "studentData": [
+    {
+      "name": "Mudassar Raza 1",
+      "gender": "Male",
+      "pdob": "2001-04-07",
+      "Groups": "Web Designer",
+      "id": 1
+    },
+    {
+      "name": "Malik Aakash",
+      "gender": "Male",
+      "pdob": "1986-01-01",
+      "Groups": "Biologist",
+      "id": 2
+    },
+    {
+      "name": "Usama Ayub",
+      "gender": "Male",
+      "pdob": "2000-01-01",
+      "Groups": "Web Designer",
+      "id": 3
+    },
+    {
+      "name": "Girl",
+      "gender": "Female",
+      "pdob": "2000-01-01",
+      "Groups": "Black  Magicians",
+      "id": 4
+    },
+    {
+      "name": "Sufyan Pathaan",
+      "gender": "Female",
+      "pdob": "2000-01-01",
+      "Groups": "Black  Magicians",
+      "id": 5
+    },
+    {
+      "name": "Zain-ul-Abideen",
+      "gender": "Male",
+      "pdob": "2000-01-01",
+      "Groups": "Typography",
+      "id": 6
+    },
+    {
+      "name": "Fatir",
+      "gender": "Male",
+      "pdob": "2000-01-01",
+      "Groups": "Black  Magicians",
+      "id": 7
+    },
+    {
+      "name": "Aleem Dar",
+      "gender": "Male",
+      "pdob": "2000-12-01",
+      "Groups": "Chemistry Capital",
+      "id": 8
+    }
+  ]
+}

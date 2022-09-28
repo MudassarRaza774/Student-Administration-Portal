@@ -1,0 +1,6 @@
+this project is the final project of the bootcamp, what it contains?
+a datatable which will get the json response from the json api providers and show them
+there will be create update delete fucntionalities in this project
+moreover there is a filter option which will update the data on the basis of given checkboxes 
+we will add the mongodb in this project too
+there is mongodb express and node js in this project too this is a MERN project
